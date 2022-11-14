@@ -1,0 +1,15 @@
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\bin\Debug\net6.0\reto2.exe
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\bin\Debug\net6.0\reto2.deps.json
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\bin\Debug\net6.0\reto2.runtimeconfig.json
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\bin\Debug\net6.0\reto2.dll
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\bin\Debug\net6.0\reto2.pdb
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.dll
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\refint\reto2.dll
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.pdb
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\reto2.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Documentos\Luis Pedro\Progra\reto2\reto2\obj\Debug\net6.0\ref\reto2.dll
